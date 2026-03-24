@@ -11,8 +11,6 @@ I am passionate about data analysis and turning raw data into meaningful insight
 * Power BI
 * Excel
 
-## 📊 Projects
-
 * Sales Analysis Project
 
 ## 🚀 Goals
