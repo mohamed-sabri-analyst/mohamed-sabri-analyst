@@ -17,17 +17,13 @@ I am passionate about data analysis and turning raw data into meaningful insight
 
 ## 🚀 Goals
 
-* Become a professional Data Analyst
-* Work in a data-driven company
+## 📊 Projects
 
-## 📊 Monthly Sales
-![Monthly Sales](monthly_sales.png)
+### 🔹 Sales Analysis Project
 
-## 🟢 Top Products
-![Top Products](top_products.png)
+* Performed data cleaning and feature engineering
+* Analyzed product performance and sales trends
+* Identified top and weak products
+* Provided business recommendations
 
-## 🔴 Weak Products
-![Weak Products](weak_products.png)
-
-## 🔵 City Analysis
-![City Analysis](city_analysis.png)
+👉 [View Project](https://github.com/mohamed-sabri-analyst/sales-analysis-project)
