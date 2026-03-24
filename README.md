@@ -1,9 +1,3 @@
-# Hi 👋 I'm Mohamed Sabri
-
-## 💼 Data Analyst
-
-I am passionate about data analysis and turning raw data into meaningful insights.
-
 ## 🛠 Skills
 
 * Python (Pandas)
@@ -11,9 +5,7 @@ I am passionate about data analysis and turning raw data into meaningful insight
 * Power BI
 * Excel
 
-* Sales Analysis Project
-
-## 🚀 Goals
+---
 
 ## 📊 Projects
 
@@ -25,3 +17,10 @@ I am passionate about data analysis and turning raw data into meaningful insight
 * Provided business recommendations
 
 👉 [View Project](https://github.com/mohamed-sabri-analyst/sales-analysis-project)
+
+---
+
+## 🚀 Goals
+
+* Become a professional Data Analyst
+* Work in a data-driven company
