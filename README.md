@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Mohamed Sabri
 
-<!--
-**mohamed-sabri-analyst/mohamed-sabri-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Data Analyst
 
-Here are some ideas to get you started:
+I am passionate about data analysis and turning raw data into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+* Python (Pandas)
+* SQL
+* Power BI
+* Excel
+
+## 📊 Projects
+
+* Sales Analysis Project
+
+## 🚀 Goals
+
+* Become a professional Data Analyst
+* Work in a data-driven company
