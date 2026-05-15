@@ -82,15 +82,4 @@ Python | Power BI | Scikit-learn
 - ETL Pipelines
 - Business Intelligence Solutions
 - Data Storytelling
-```
 
----
-
-# How To Use
-
-1. Create a new repository on GitHub.
-2. Name the repository exactly like your GitHub username.
-3. Add a README.md file.
-4. Copy the markdown content above into the README.
-5. Replace the project links with your real repositories.
-6. Add screenshots from your Power BI dashboards to your repositories.
