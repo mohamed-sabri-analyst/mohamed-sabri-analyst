@@ -70,7 +70,7 @@ Python | Power BI | Scikit-learn
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/mohamed-a-85931a3a4
+- LinkedIn: www.linkedin.com/in/mohamed-sabri-aldeip
 - GitHub: https://github.com/
 - Email: m_sabry91@hotmail.com
 
