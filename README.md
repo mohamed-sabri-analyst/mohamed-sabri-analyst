@@ -89,7 +89,9 @@ Root cause analysis on funnel deviations across 5,000+ customer interaction reco
 K-Means clustering on 10,000+ transactions with RFM feature engineering to define 3 behavioral segments, visualized across 5 Power BI dashboards. Improved targeting efficiency by 25%.
 
 🔹 **Tools:** Python · Power BI · Scikit-learn
+
 🔗 Repository: [customer-segmentation-analysis](https://github.com/mohamed-sabri-analyst/customer-segmentation-analysis)
+
 ---
 
 ## 💼 Core Competencies
