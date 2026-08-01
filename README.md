@@ -74,7 +74,7 @@ Full-scale Power BI solution modeling **250,000+ call records** across a **star-
 Power BI dashboard analyzing customer churn behavior, revenue performance (ARPU, CLV), and retention KPIs on 3,500+ customer records, with drill-through executive reporting supporting retention strategy.
 
 🔹 **Tools:** Power BI · DAX · Power Query · Data Visualization
-🔗 **Repository:** [telecom-customer-churn-dashboard](#)
+🔗 Repository: [telecom-customer-churn-dashboard](https://github.com/mohamed-sabri-analyst/telecom-customer-churn-dashboard))
 
 ---
 
@@ -89,7 +89,7 @@ Root cause analysis on funnel deviations across 5,000+ customer interaction reco
 K-Means clustering on 10,000+ transactions with RFM feature engineering to define 3 behavioral segments, visualized across 5 Power BI dashboards. Improved targeting efficiency by 25%.
 
 🔹 **Tools:** Python · Power BI · Scikit-learn
-
+🔗 Repository: [customer-segmentation-analysis](https://github.com/mohamed-sabri-analyst/customer-segmentation-analysis)
 ---
 
 ## 💼 Core Competencies
