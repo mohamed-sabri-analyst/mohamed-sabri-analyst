@@ -66,7 +66,7 @@ Full-scale Power BI solution modeling **250,000+ call records** across a **star-
 - 👥 Modeled workforce analytics across **500 agents and 7 queues** over a 2-year period
 
 🔹 **Tools:** Power BI · DAX · Power Query · SQL · Python (pandas, NumPy) · Star Schema Data Modeling
-🔗 **Repository:** [enterprise-contact-center-analytics](#)
+🔗 **Repository:https://github.com/mohamed-sabri-analyst/call-center-analytics-dashboard
 
 ---
 
