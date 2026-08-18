@@ -16,8 +16,8 @@
 
 I'm a results-driven **MIS Analyst / Data Analyst** with **4+ years of dedicated experience** in MIS Reporting, Business Intelligence, and Contact Center Analytics — backed by **13+ years in IT infrastructure**. I design end-to-end reporting solutions that turn messy, multi-source data into dashboards executives actually use to make decisions.
 
-- 🔭 Currently focused on **enterprise-scale Power BI solutions** for contact center and operations analytics
-- 📊 Delivered **20+ automated Power BI dashboards & MIS reports** across sales, marketing, and contact center operations
+- 🔭 Currently focused on **enterprise-scale Power BI solutions** for contact center, retail, and operations analytics
+- 📊 Delivered **20+ automated Power BI dashboards & MIS reports** across sales, marketing, retail, and contact center operations
 - ⚙️ Built **ETL automation pipelines** (Python + Power Query) cutting manual reporting effort by **~40%**
 - 🧠 Comfortable owning a project end-to-end: data modeling → ETL → DAX → dashboard design → stakeholder reporting
 - 🌍 Arabic native speaker, professional working proficiency in English
@@ -59,44 +59,40 @@ I'm a results-driven **MIS Analyst / Data Analyst** with **4+ years of dedicated
 ## 📂 Featured Projects
 
 ### 🏆 Enterprise Contact Center Performance & Workforce Analytics
-Full-scale Power BI solution modeling **250,000+ call records** across a **star-schema data model** (6 interconnected tables), with **8 executive dashboard pages** covering Executive KPIs, Workforce Management, Agent Performance, Customer Experience, Operations & Peak Analysis, Forecast vs. Actual, Queue Analysis, and AI-powered Executive Insights (Decomposition Tree & Smart Narrative).
+End-to-end Power BI solution modeling **250,000+ call records** on a **star-schema data model** (6 interconnected tables), delivering **8 executive dashboard pages**: Executive KPIs, Workforce Management, Agent Performance Leaderboard, Customer Experience, Operations & Peak Analysis, Forecast vs. Actual, Queue Analysis, and AI-powered Executive Insights (Decomposition Tree & Smart Narrative).
 
-- 📐 **50+ custom DAX measures**: Service Level %, AHT, Occupancy, Shrinkage, Forecast Accuracy, FCR Rate, CSAT, Schedule Adherence, Abandon Rate
-- 🔄 Full **Power Query ETL pipeline**: data cleaning, validation, transformation, custom date table, scheduled refresh
+- 📐 **50+ custom DAX measures** — Service Level %, AHT, Occupancy, Shrinkage, Forecast Accuracy, FCR Rate, CSAT, Schedule Adherence, Abandon Rate
+- 🔄 Full **Power Query ETL pipeline** — data cleaning, validation, transformation, custom date table, scheduled refresh
 - 👥 Modeled workforce analytics across **500 agents and 7 queues** over a 2-year period
 
 🔹 **Tools:** Power BI · DAX · Power Query · SQL · Python (pandas, NumPy) · Star Schema Data Modeling
-🔗 **Repository:https://github.com/mohamed-sabri-analyst/call-center-analytics-dashboard
+🔗 **Repository:** [call-center-analytics-dashboard](https://github.com/mohamed-sabri-analyst/call-center-analytics-dashboard)
+
+---
+
+### 🛒 QMart Retail Intelligence — Enterprise Retail Data Warehouse & BI Platform
+Enterprise-scale retail BI platform built on a **star-schema data warehouse** (10 tables) modeling **1.6M+ retail records**, powering a **6-page executive dashboard** for revenue, customer, and inventory performance.
+
+- 📐 **150+ custom DAX measures** — Revenue, YoY/MoM/QoQ/YTD trends, Customer Lifetime Value (CLV), Churn Risk, Inventory Turnover
+- 🐍 **1.3M+ Python-engineered transactions** generated with full referential integrity for realistic enterprise-scale testing
+- 📈 Designed to support executive decision-making across sales performance, customer value, and stock management
+
+🔹 **Tools:** Power BI · DAX · Power Query · Python (pandas, NumPy) · Star Schema Data Modeling
+🔗 **Repository:** [qmart-retail-intelligence](https://github.com/mohamed-sabri-analyst/qmart-retail-intelligence)
 
 ---
 
 ### 📊 Telecom Customer Churn & MIS Retention Dashboard
-Power BI dashboard analyzing customer churn behavior, revenue performance (ARPU, CLV), and retention KPIs on 3,500+ customer records, with drill-through executive reporting supporting retention strategy.
+Power BI dashboard analyzing customer churn behavior, revenue performance (ARPU, CLV), and retention KPIs on **3,500+ customer records**, with drill-through executive reporting supporting retention strategy.
 
 🔹 **Tools:** Power BI · DAX · Power Query · Data Visualization
-🔗 Repository: [telecom-customer-churn-dashboard](https://github.com/mohamed-sabri-analyst/telecom-customer-churn-dashboard))
-
----
-
-### 📈 A/B Testing Conversion Performance Dashboard
-Root cause analysis on funnel deviations across 5,000+ customer interaction records, with a Python-automated refresh pipeline. Delivered a 3% conversion rate lift through structured performance analysis.
-
-🔹 **Tools:** Power BI · Python · Excel
-
----
-
-### 👥 Customer Segmentation & Behavioral Analytics
-K-Means clustering on 10,000+ transactions with RFM feature engineering to define 3 behavioral segments, visualized across 5 Power BI dashboards. Improved targeting efficiency by 25%.
-
-🔹 **Tools:** Python · Power BI · Scikit-learn
-
-🔗 Repository: [customer-segmentation-analysis](https://github.com/mohamed-sabri-analyst/customer-segmentation-analysis)
+🔗 **Repository:** [telecom-customer-churn-dashboard](https://github.com/mohamed-sabri-analyst/telecom-customer-churn-dashboard)
 
 ---
 
 ## 💼 Core Competencies
 
-`MIS Reporting` `Executive Reporting` `KPI Monitoring` `Contact Center Analytics` `SLA Reporting`
+`MIS Reporting` `Executive Reporting` `KPI Monitoring` `Contact Center Analytics` `Retail Analytics` `SLA Reporting`
 `Data Validation` `Data Reconciliation` `Root Cause Analysis (RCA)` `Trend Analysis` `Capacity Planning`
 `Dashboard Automation` `ETL Automation` `Data Warehousing` `Forecasting`
 
@@ -118,8 +114,3 @@ I'm open to opportunities as an **MIS Analyst · Data Analyst · BI Analyst · R
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-sabri-aldeip)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m_sabry91@hotmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamed-sabri-analyst)
-
-
-
-
-
