@@ -91,8 +91,7 @@ Predictive HR analytics platform covering **4,233 active employees** across a **
 - 💰 Compensation module tracking average monthly salary and gender pay gap by job level
 
 🔹 **Tools:** Power BI · DAX · Power Query · Python (pandas, NumPy, scikit-learn) · SQL · Predictive Analytics
-🔗 **Repository:** [hr-workforce-attrition-analytics]([https://github.com/mohamed-sabri-analyst/hr-workforce-attrition-analytics](https://github.com/mohamed-sabri-analyst/HR_Attrition_Analytics))
-
+🔗 **Repository:** [hr-workforce-attrition-analytics](https://github.com/mohamed-sabri-analyst/HR_Attrition_Analytics)
 ---
 
 ### 💰 Enterprise Financial Suite & Advanced DAX Analytics
