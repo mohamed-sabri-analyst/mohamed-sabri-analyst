@@ -103,7 +103,7 @@ A 4-page executive financial suite in Power BI built from **raw, uncleaned ERP/G
 - 📊 **Budget vs. Actual** isolates 24 over-budget accounts via dynamic variance analysis across a $26.74M budget
 
 🔹 **Tools:** Power BI · DAX (`TREATAS`, `SUMX`, `CALCULATE`) · Power Query · M-Code · Financial Modeling
-🔗 **Repository:** [enterprise-financial-suite-dax-analytics](https://github.com/mohamed-sabri-analyst/enterprise-financial-suite-dax-analytics)
+🔗 **Repository:** [enterprise-financial-suite-dax-analytics]([(https://github.com/mohamed-sabri-analyst/Financial))
 
 ---
 
